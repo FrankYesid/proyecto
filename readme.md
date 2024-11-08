@@ -1,17 +1,8 @@
 Analisis de Base de datos de música
 
+>hola mundo
 
-ingles
-About Dataset
-Spotify Most Streamed Songs Dataset
-This dataset contains comprehensive information on some of the most streamed songs on Spotify, enriched with additional insights from other popular streaming platforms like Apple Music, Deezer, and Shazam. It is ideal for music analysts, data scientists, and machine learning enthusiasts who are interested in exploring trends and characteristics of popular music tracks.
-
-Features of the Dataset
-Basic Track Information:
-
-track_name: Name of the song. artist(s)_name: Name of the artist(s) performing the song. artist_count: Number of artists contributing to the song. released_year, released_month, released_day: Release date details.
-
-Streaming Metrics:
+treaming Metrics:
 in_spotify_playlists: Number of Spotify playlists the song is featured in.
 in_spotify_charts: Rank of the song on Spotify charts.
 streams: Total number of streams on Spotify.
